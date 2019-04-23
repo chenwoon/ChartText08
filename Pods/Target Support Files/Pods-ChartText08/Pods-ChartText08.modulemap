@@ -1,0 +1,6 @@
+framework module Pods_ChartText08 {
+  umbrella header "Pods-ChartText08-umbrella.h"
+
+  export *
+  module * { export * }
+}
